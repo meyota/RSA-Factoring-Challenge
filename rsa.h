@@ -25,3 +25,5 @@ long long unsigned int modular_pow(long long unsigned int base, int exponent, lo
 long long unsigned int __gcd(long long unsigned int a, long long unsigned int b);
 long long unsigned int PollardRho(long long unsigned int n);
 long long unsigned int compute(long long unsigned int *src, long long unsigned int n);
+
+#endif
